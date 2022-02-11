@@ -4,10 +4,15 @@ Materials for ACL-2022 tutorial: Knowledge-Augmented Methods for Natural Languag
 
 # Presenters
 Chenguang Zhu, Microsoft Cognitive Services Research
+
 Yichong Xu, Microsoft Cognitive Services Research
+
 Xiang Ren, University of Southern California
+
 Bill Yuchen Lin, University of Southern California
+
 Meng Jiang University of Notre Dame
+
 Wenhao Yu, University of Notre Dame
 
 # Abstract

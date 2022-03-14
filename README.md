@@ -6,9 +6,9 @@ Materials for [ACL2022](https://www.2022.aclweb.org/) tutorial: Knowledge-Augmen
 
 ## Time and Location
 
-**1. Time: (tentative) 9am - 12pm, May 22th, 2022 (GMT).** 
+**1. Time: (tentative) 09:00am - 12:30pm, May 22th, 2022 (GMT).** 
 
-**2. Location: TBD, but in the hybrid format in Dublin, Ireland**
+**2. Location: TBD, hybrid format in Dublin, Ireland**
 
 ## Tutorial abstract [\[PDF\]](/files/knowledge_tutorial.pdf)
 Knowledge in NLP has been a rising trend especially after the advent of large scale pre-trained models. NLP models with attention to knowledge can i) access unlimited amount of external information; ii) delegate the task of storing knowledge from its parameter space to knowledge sources; iii) obtain up-to-date information; iv) make prediction results more explainable via selected knowledge. In this tutorial, we will introduce the key steps in integrating knowledge into NLP, including knowledge grounding from text, knowledge representation and fusing. We will also introduce recent state-of-the-art applications in fusing knowledge into language understanding, language generation and commonsense reasoning.
@@ -79,7 +79,7 @@ Chenguang Zhu &nbsp; &nbsp; Yichong Xu &nbsp; &nbsp; &nbsp; &nbsp; Xiang Ren &nb
 
 [Bill Yuchen Lin](https://yuchenlin.xyz/) is a Ph.D. candidate at USC. His research goal is to teach machines to think, talk, and act with commonsense knowledge and commonsense reasoning ability as humans do. Towards this ultimate goal, he has been developing knowledge-augmented reasoning methods (e.g., KagNet, MHGRN, DrFact) and constructing benchmark datasets (e.g., CommonGen, RiddleSense, X-CSR) that require commonsense knowledge and complex reasoning for both NLU and NLG. He initiated an online compendium of commonsense reasoning  research, which serves as a portal for the community. 
 
-[Meng Jiang](http://www.meng-jiang.com/) is an assistant professor in the Department of Computer Science and Engineering at the University of Notre Dame. He received his B.E. and Ph.D. in Computer Science from Tsinghua University and was a postdoctoral research associate at the University of Illinois at Urbana-Champaign. His research interests focus on knowledge graph construction and natural language generation for news summarization and forum post generation. The awards he received include Notre Dame Faculty Award in 2019 and Best Paper Awards at ISDSA and KDD-DLG in 2020.
+[Meng Jiang](http://www.meng-jiang.com/) is an assistant professor in the Department of Computer Science and Engineering at the University of Notre Dame. He received his B.E. and Ph.D. in Computer Science from Tsinghua University and was a postdoctoral research associate at the University of Illinois at Urbana-Champaign. His research interests focus on knowledge graph construction and natural language generation for news summarization and forum post generation. The awards he received include Notre Dame Faculty Award in 2019 and Best Paper at ISDSA and KDD-DLG in 2020.
 
-[Wenhao Yu](https://wyu97.github.io/) is a Ph.D. student in the Department of Computer Science and Engineering at the University of Notre Dame. His research lies in controllable knowledge-driven natural language processing, particularly in natural language generation. His research has been published in top-ranked NLP and data mining conferences such as ACL, EMNLP, KDD and WWW.
+[Wenhao Yu](https://wyu97.github.io/) is a Ph.D. student in the Department of Computer Science and Engineering at the University of Notre Dame. His research lies in controllable knowledge-driven NLP and NLG. His research has been published in top-ranked NLP and data mining conferences such as ACL, EMNLP and KDD.
 

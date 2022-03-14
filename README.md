@@ -15,9 +15,9 @@ Knowledge in NLP has been a rising trend especially after the advent of large sc
 
 ## Tutorial Materials
 
-**1. Slides** (comming soon!)
+**1. Slides** (Comming soon!)
 
-**2. Video** (comming soon!)
+**2. Video** (Comming soon!)
 
 **3. Survey:** A Survey of Knowledge-enhanced Text Generation, in ACM Computing Survey (CUSR) 2022. [\[PDF\]](https://arxiv.org/abs/2010.04389)
 

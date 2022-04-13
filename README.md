@@ -6,7 +6,7 @@ Materials for [ACL2022](https://www.2022.aclweb.org/) tutorial: Knowledge-Augmen
 
 ## Time and Location
 
-**1. Time: 09:30am - 13:00pm, May 22th, 2022 (GMT).** 
+**1. Time: 09:30 - 13:00, May 22th, 2022 (GMT).** 
 
 **2. Location: TBD, hybrid format in Dublin, Ireland**
 

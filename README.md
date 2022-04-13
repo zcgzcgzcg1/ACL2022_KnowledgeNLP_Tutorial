@@ -6,7 +6,7 @@ Materials for [ACL2022](https://www.2022.aclweb.org/) tutorial: Knowledge-Augmen
 
 ## Time and Location
 
-**1. Time: (tentative) 09:00am - 12:30pm, May 22th, 2022 (GMT).** 
+**1. Time: 09:30am - 13:00pm, May 22th, 2022 (GMT).** 
 
 **2. Location: TBD, hybrid format in Dublin, Ireland**
 
@@ -56,12 +56,13 @@ Knowledge in NLP has been a rising trend especially after the advent of large sc
 
 | Local time (GMT) | Content | Presenter |
 | :---: | :---: | :---: |
-| 09:00-09:15am | Motivation and Introduction of Knowledge in NLP | Chenguang Zhu |
-| 09:15-10:05am | Knowledge in Natural Language Understanding  | Yichong Xu |
-| 10:05-10:30am | Coffee Break  |  |
-| 10:30-11:25am | Knowledge in Natural Language Generation | Wenhao Yu / Meng Jiang |
-| 11:25-12:20pm | Commonsense Knowledge and Reasoning for NLP | Yuchen Lin / Xiang Ren |
-| 12:20-12:30pm | Summary and Future Direction | Meng Jiang / Xiang Ren |
+| 09:30-09:45 | Motivation and Introduction of Knowledge in NLP | Chenguang Zhu |
+| 09:45-10:35 | Knowledge in Natural Language Understanding  | Yichong Xu |
+| 10:35-11:00 | Knowledge in Natural Language Generation | Wenhao Yu / Meng Jiang |
+| 11:00-11:30 | Coffee Break  |  |
+| 11:30-11:55 | Knowledge in Natural Language Generation | Wenhao Yu / Meng Jiang |
+| 11:55-12:45 | Commonsense Knowledge and Reasoning for NLP | Yuchen Lin / Xiang Ren |
+| 12:45-13:00 | Summary and Future Direction | Meng Jiang / Xiang Ren |
 
 ## Presenters
 

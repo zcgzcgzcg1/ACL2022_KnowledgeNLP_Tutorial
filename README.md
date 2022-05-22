@@ -8,9 +8,9 @@ Materials for [ACL2022](https://www.2022.aclweb.org/) tutorial: Knowledge-Augmen
 
 **1. Time: 9:30am - 1:00pm, May 22th, 2022 (GMT).** 
 
-**2. Location: Wicklow Hall 2, Convention Centre Dublin**
+**2. Location: Wicklow Hall 2, Convention Centre Dublin.**
 
-**3. Zoom: Click "join zoom room" at Underline**
+**3. Zoom: Click "join zoom room" at Underline.**
 
 ## Tutorial abstract [\[PDF\]](/files/knowledge_tutorial.pdf)
 Knowledge in NLP has been a rising trend especially after the advent of large scale pre-trained models. NLP models with attention to knowledge can i) access unlimited amount of external information; ii) delegate the task of storing knowledge from its parameter space to knowledge sources; iii) obtain up-to-date information; iv) make prediction results more explainable via selected knowledge. In this tutorial, we will introduce the key steps in integrating knowledge into NLP, including knowledge grounding from text, knowledge representation and fusing. We will also introduce recent state-of-the-art applications in fusing knowledge into language understanding, language generation and commonsense reasoning.
@@ -58,15 +58,15 @@ Knowledge in NLP has been a rising trend especially after the advent of large sc
 
 ## Tutorial schedule
 
-| Local time (GMT) | Content | Presenter |
-| :---: | :---: | :---: |
-| 09:30-09:45 | Motivation and Introduction of Knowledge in NLP | Chenguang Zhu |
-| 09:45-10:35 | Knowledge in Natural Language Understanding  | Yichong Xu |
-| 10:35-11:00 | Knowledge in Natural Language Generation | Wenhao Yu / Meng Jiang |
-| 11:00-11:30 | Coffee Break  |  |
-| 11:30-11:55 | Knowledge in Natural Language Generation | Wenhao Yu / Meng Jiang |
-| 11:55-12:45 | Commonsense Knowledge and Reasoning for NLP | Yuchen Lin / Xiang Ren |
-| 12:45-13:00 | Summary and Future Direction | Meng Jiang / Xiang Ren |
+| Local time (GMT) | Content | Presenter | Slides |
+| :---: | :---: | :---: | :---: |
+| 09:30-09:45 | Motivation and Introduction of Knowledge in NLP | Chenguang Zhu | [\[Slides\]](/files/PART1_Introduction.pdf) |
+| 09:45-10:35 | Knowledge in Natural Language Understanding  | Yichong Xu | [\[Slides\]](/files/PART2_Knowledge_NLU.pdf) |
+| 10:35-11:00 | Knowledge in Natural Language Generation | Wenhao Yu | [\[Slides\]](/files/PART3_Knowledge_NLG.pdf) |
+| 11:00-11:30 | Coffee Break  |  |  |
+| 11:30-11:55 | Knowledge in Natural Language Generation | Wenhao Yu | |
+| 11:55-12:45 | Commonsense Knowledge and Reasoning for NLP | Yuchen Lin & Xiang Ren | [\[Slides\]](/files/PART4_Knowledge_CR.pdf) |
+| 12:45-13:00 | Summary and Future Direction | Meng Jiang | [\[Slides\]](/files/PART5_Conclusion.pdf) |
 
 ## Presenters
 

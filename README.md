@@ -6,28 +6,32 @@ Materials for [ACL2022](https://www.2022.aclweb.org/) tutorial: Knowledge-Augmen
 
 ## Time and Location
 
-**1. Time: (tentative) 09:00am - 12:30pm, May 22th, 2022 (GMT).** 
+**1. Time: 9:30am - 1:00pm, May 22th, 2022 (GMT).** 
 
-**2. Location: TBD, hybrid format in Dublin, Ireland**
+**2. Location: Wicklow Hall 2, Convention Centre Dublin**
+
+**3. Zoom: Click "join zoom room" at Underline**
 
 ## Tutorial abstract [\[PDF\]](/files/knowledge_tutorial.pdf)
 Knowledge in NLP has been a rising trend especially after the advent of large scale pre-trained models. NLP models with attention to knowledge can i) access unlimited amount of external information; ii) delegate the task of storing knowledge from its parameter space to knowledge sources; iii) obtain up-to-date information; iv) make prediction results more explainable via selected knowledge. In this tutorial, we will introduce the key steps in integrating knowledge into NLP, including knowledge grounding from text, knowledge representation and fusing. We will also introduce recent state-of-the-art applications in fusing knowledge into language understanding, language generation and commonsense reasoning.
 
 ## Tutorial Materials
 
-**1. Slides** (Comming soon!)
+**1. Slides** [\[Introduction\]](/files/PART1_Introduction.pdf) [\[KnowledgeForNLU\]](/files/PART2_Knowledge_NLU.pdf) [\[KnowledgeForNLG\]](/files/PART3_Knowledge_NLG.pdf) [\[KnowledgeForCommonsense\]](/files/PART4_Knowledge_CR.pdf) [\[Conclusion\]](/files/PART5_Conclusion.pdf)
 
-**2. Video** (Comming soon!)
+**2. Video** (will be available after the tutorial!)
 
-**3. Survey:** A Survey of Knowledge-enhanced Text Generation, in ACM Computing Survey (CUSR) 2022. [\[PDF\]](https://arxiv.org/abs/2010.04389)
+**3. Survey:** 
 
-**4. Reading list:**
+- A Survey of Knowledge-enhanced Text Generation, in ACM Computing Survey (CUSR) 2022. [\[PDF\]](https://arxiv.org/abs/2010.04389)
 
 - A Survey of Knowledge Enhanced Pre-trained Models, on arXiv 2021. [\[pdf\]](https://arxiv.org/pdf/2110.00269.pdf)
 
 - Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing, on arXiv 2021. [\[pdf\]](https://arxiv.org/pdf/2107.13586.pdf)
 
 - A Survey on Retrieval-Augmented Text Generation, on arXiv 2022. [\[pdf\]](https://arxiv.org/pdf/2202.01110.pdf)
+
+**4. Reading list:**
 
 - KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning, in EMNLP 2019. [\[pdf\]](https://aclanthology.org/D19-1282)
 
@@ -56,12 +60,13 @@ Knowledge in NLP has been a rising trend especially after the advent of large sc
 
 | Local time (GMT) | Content | Presenter |
 | :---: | :---: | :---: |
-| 09:00-09:15am | Motivation and Introduction of Knowledge in NLP | Chenguang Zhu |
-| 09:15-10:05am | Knowledge in Natural Language Understanding  | Yichong Xu |
-| 10:05-10:30am | Coffee Break  |  |
-| 10:30-11:25am | Knowledge in Natural Language Generation | Wenhao Yu / Meng Jiang |
-| 11:25-12:20pm | Commonsense Knowledge and Reasoning for NLP | Yuchen Lin / Xiang Ren |
-| 12:20-12:30pm | Summary and Future Direction | Meng Jiang / Xiang Ren |
+| 09:30-09:45am | Motivation and Introduction of Knowledge in NLP | Chenguang Zhu |
+| 09:45-10:35am | Knowledge in Natural Language Understanding  | Yichong Xu |
+| 10:35-11:00am | Knowledge in Natural Language Generation | Wenhao Yu |
+| 11:00-11:30am | Coffee Break  |  |
+| 11:30-11:55am | Knowledge in Natural Language Generation (cont.) | Wenhao Yu |
+| 11:55-12:45pm | Commonsense Knowledge and Reasoning for NLP | Yuchen Lin & Xiang Ren |
+| 12:45-01:00pm | Summary and Future Direction | Meng Jiang |
 
 ## Presenters
 

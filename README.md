@@ -60,13 +60,13 @@ Knowledge in NLP has been a rising trend especially after the advent of large sc
 
 | Local time (GMT) | Content | Presenter |
 | :---: | :---: | :---: |
-| 09:30-09:45am | Motivation and Introduction of Knowledge in NLP | Chenguang Zhu |
-| 09:45-10:35am | Knowledge in Natural Language Understanding  | Yichong Xu |
-| 10:35-11:00am | Knowledge in Natural Language Generation | Wenhao Yu |
-| 11:00-11:30am | Coffee Break  |  |
-| 11:30-11:55am | Knowledge in Natural Language Generation (cont.) | Wenhao Yu |
-| 11:55-12:45pm | Commonsense Knowledge and Reasoning for NLP | Yuchen Lin & Xiang Ren |
-| 12:45-01:00pm | Summary and Future Direction | Meng Jiang |
+| 09:30-09:45 | Motivation and Introduction of Knowledge in NLP | Chenguang Zhu |
+| 09:45-10:35 | Knowledge in Natural Language Understanding  | Yichong Xu |
+| 10:35-11:00 | Knowledge in Natural Language Generation | Wenhao Yu / Meng Jiang |
+| 11:00-11:30 | Coffee Break  |  |
+| 11:30-11:55 | Knowledge in Natural Language Generation | Wenhao Yu / Meng Jiang |
+| 11:55-12:45 | Commonsense Knowledge and Reasoning for NLP | Yuchen Lin / Xiang Ren |
+| 12:45-13:00 | Summary and Future Direction | Meng Jiang / Xiang Ren |
 
 ## Presenters
 

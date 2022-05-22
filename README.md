@@ -63,8 +63,8 @@ Knowledge in NLP has been a rising trend especially after the advent of large sc
 | 09:30-09:45 | Motivation and Introduction of Knowledge in NLP | Chenguang Zhu | [\[Slides\]](/files/PART1_Introduction.pdf) |
 | 09:45-10:35 | Knowledge in Natural Language Understanding  | Yichong Xu | [\[Slides\]](/files/PART2_Knowledge_NLU.pdf) |
 | 10:35-11:00 | Knowledge in Natural Language Generation | Wenhao Yu | [\[Slides\]](/files/PART3_Knowledge_NLG.pdf) |
-| 11:00-11:30 | Coffee Break  |  |  |
-| 11:30-11:55 | Knowledge in Natural Language Generation | Wenhao Yu | |
+| 11:00-11:30 | Coffee Break  | - | - |
+| 11:30-11:55 | Knowledge in Natural Language Generation | Wenhao Yu | (cont.) |
 | 11:55-12:45 | Commonsense Knowledge and Reasoning for NLP | Yuchen Lin & Xiang Ren | [\[Slides\]](/files/PART4_Knowledge_CR.pdf) |
 | 12:45-13:00 | Summary and Future Direction | Meng Jiang | [\[Slides\]](/files/PART5_Conclusion.pdf) |
 

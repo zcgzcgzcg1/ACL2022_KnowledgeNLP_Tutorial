@@ -31,7 +31,7 @@ Knowledge in NLP has been a rising trend especially after the advent of large sc
 
 **1. Slides** [\[Introduction\]](/files/PART1_Introduction.pdf) [\[KnowledgeForNLU\]](/files/PART2_Knowledge_NLU.pdf) [\[KnowledgeForNLG\]](/files/PART3_Knowledge_NLG.pdf) [\[KnowledgeForCommonsense\]](/files/PART4_Knowledge_CR.pdf) [\[Conclusion\]](/files/PART5_Conclusion.pdf)
 
-**2. Video** (will be available after the tutorial!)
+**2. Video** [\[AllParts\]](https://underline.io/events/284/sessions?eventSessionId=10737)
 
 **3. Survey:** 
 
